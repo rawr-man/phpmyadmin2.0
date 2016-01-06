@@ -1,27 +1,52 @@
-# phpMyAdmin 2.0
+phpMyAdmin - Readme
 ===================
 
-phpmyadmin done right
+Version 4.7.0-dev
+
+A web interface for MySQL and MariaDB.
+
+https://www.phpmyadmin.net/
 
 Summary
 -------
 
-Like phpMyAdmin, but now with more RAWR!
+phpMyAdmin is intended to handle the administration of MySQL over the web.
+For a summary of features, list of requirements, and installation instructions,
+please see the documentation in the ./doc/ folder or at https://docs.phpmyadmin.net/
 
-# Contributing to phpmyadmin2.0
+Copyright
+---------
 
-## Contents
-1. [About this Project](#about-this-project)
-1. [Standards and Best Practices](#standards-and-best-practices)
-1. [Code of Conduct](#code-of-conduct)
+Copyright © 1998 onwards -- the phpMyAdmin team
 
-## About this Project
-This is phpMyAdmin done right.
+Certain libraries are copyrighted by their respective authors;
+see the full copyright list for details.
 
-## Stanards and Best Practices
-All pull requests against this repository **MUST** make the best possible
-effort to comply with my PHP best practices coding style.
+For full copyright information, please see ./doc/copyright.rst
 
-## Code of Conduct
-This project follows the [Contributor Covenant code of conduct](CONDUCT.md).
-Unacceptable behavior will be reported and dealt with accordingly.
+License
+-------
+
+This program is free software; you can redistribute it and/or modify it under
+the terms of the GNU General Public License version 2, as published by the
+Free Software Foundation.
+
+This program is distributed in the hope that it will be useful, but WITHOUT
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more
+details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+Licensing of current contributions
+----------------------------------
+
+Beginning on 2013-12-01, new contributions to this codebase are all licensed
+under terms compatible with GPLv2-or-later.  phpMyAdmin is currently
+transitioning older code to GPLv2-or-later, but work is not yet complete.
+
+Enjoy!
+------
+
+The phpMyAdmin team
